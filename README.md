@@ -164,13 +164,13 @@ BlinkIT-Sales-Analysis/
 
 ## Executive Overview
 
-![Executive Overview](Screenshots/01_Executive _Overview.png)
+![Executive Overview](Screenshots/01_Executive_Overview.png)
 
 ---
 
 ## Revenue Driver Analysis
 
-![Revenue Driver Analysis](Screenshots/02_Revenue _Driver _Analysis.png)
+![Revenue Driver Analysis](Screenshots/02_Revenue_Driver_Analysis.png)
 
 ---
 
